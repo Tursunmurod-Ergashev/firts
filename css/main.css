@@ -271,6 +271,7 @@ transition: 0.7s;
 width: 30%;
 box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 transition: 0.8s;
+border-radius: 15px;
 }
 .bast-img{
     width: 100%;
@@ -731,6 +732,9 @@ align-items: center;
         align-items: center;
         justify-content: center;
     }
+    .about-title{
+        font-size: 20px;
+    }
 
     .bast-title{
         font-size: 35px;
@@ -857,5 +861,12 @@ align-items: center;
      .bast-minlist{
         width: 90%;
      }
+     
+     .about-title{
+        font-size: 15px;
+    }
+    .bast-title{
+font-size: 20px;
+    }
 
 }
